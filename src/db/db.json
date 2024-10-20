@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "49f9b241-19cd-4e07-8372-b813400d974e",
+    "name": "Phil Lehner",
+    "phone": "(820) 589-4797 x322",
+    "email": "Johann_Rodriguez@yahoo.com",
+    "job": "Legacy Program Architect"
+  },
+  {
+    "id": "12daa91f-0bb0-4043-b652-c17619f7226b",
+    "name": "Lori Abernathy",
+    "phone": "846.430.8745 x709",
+    "email": "Regan_Collins@gmail.com",
+    "job": "District Infrastructure Specialist"
+  },
+  {
+    "id": "f06cebfd-7802-46fb-9702-e5b445c5e6a2",
+    "name": "Tony Swaniawski",
+    "phone": "358.379.4455 x529",
+    "email": "Mateo12@hotmail.com",
+    "job": "Dynamic Configuration Liaison"
+  },
+  {
+    "id": "2ef0d649-d980-4002-b708-1fe2e8edbf17",
+    "name": "Crystal Kertzmann",
+    "phone": "1-252-948-4298 x2851",
+    "email": "Maudie.Rice@gmail.com",
+    "job": "Dynamic Research Engineer"
+  },
+  {
+    "id": "dbb8e329-ad83-40c2-bd9b-0ed5ff21db4f",
+    "name": "Jackie O'Keefe",
+    "phone": "788.854.0188 x97687",
+    "email": "Patrick.Huels44@hotmail.com",
+    "job": "Global Solutions Designer"
+  }
+]
